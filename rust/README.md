@@ -10,10 +10,9 @@
 </h6>
 <div align="center">
 
-
 ![GitHub](https://img.shields.io/github/license/1yib/vsc-bundle?color=A3BE8C&style=flat-square)
-![Installs](https://vsmarketplacebadges.dev/installs-short/1YIB.python-bundle.svg?&logo=visualstudiocode&color=A3BE8C)
-![Version](https://vsmarketplacebadges.dev/version-short/1YiB.python-bundle.svg?&logo=visualstudiocode&color=A3BE8C&label=version)
+![Installs](https://vsmarketplacebadges.dev/installs-short/1YIB.rust-bundle.svg?&logo=visualstudiocode&color=A3BE8C)
+![Version](https://vsmarketplacebadges.dev/version-short/1YiB.rust-bundle.svg?&logo=visualstudiocode&color=A3BE8C&label=version)
 
 </div>
 
