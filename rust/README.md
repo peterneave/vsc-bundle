@@ -27,7 +27,7 @@
 | Extension | Stats |
 |---|---|
 | `rust-lang.rust-analyzer` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/rust-lang.rust-analyzer.svg?&logo=visualstudiocode&color=A3BE8C) |
-| `serayuzgur.crates` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/serayuzgur.crates.svg?&logo=visualstudiocode&color=A3BE8C) |
+| `fill-labs.dependi` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/fill-labs.dependi.svg?&logo=visualstudiocode&color=A3BE8C) |
 | `njpwerner.autodocstring` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/njpwerner.autodocstring.svg?&logo=visualstudiocode&color=A3BE8C) |
 
 

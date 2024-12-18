@@ -17,7 +17,7 @@
   },
   "extensionPack": [
     "rust-lang.rust-analyzer",
-    "serayuzgur.crates",
+    "fill-labs.dependi",
     "dustypomerleau.rust-syntax"
   ],
   "license": "LICENSE",
